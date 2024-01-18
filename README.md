@@ -1,10 +1,6 @@
 # Hi, I'm Simona 👩🏻‍💻
 
 Welcome to my GitHub profile! I'm a Software Development trainee with +5 years of professional experience in the IT industry. Currently, I am passionate about Java.
-<br>
-<a href="https://www.linkedin.com/in/simonanedeva1/">
-  <img src="https://pic.onlinewebfonts.com/thumbnails/icons_24814.svg" alt="LinkedIn" width="30">
-</a>
 
 ## Professional Background 👩🏻‍💼
 
