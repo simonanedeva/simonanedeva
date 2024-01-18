@@ -47,7 +47,7 @@ With a good foundation in Java and a background in IT recruitment, I bring a uni
 - **Object-Oriented Programming (OOP):** Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Exception Handling, Java Collections Framework, Generics, Unit Testing, Lambdas & Stream API, Java Internals
 - **Data Structures & Algorithms:** Algorithm Analysis, Complexity, Linked List, Stack, Queue, Set, Map, Hash Table, Recursion, Trees, Searching & Sorting Algorithms
 - **Web Development:** SQL, HTTP, REST API, Postman, Spring Boot, Layered Architecture, IoC, Basic Authentication, JDBC, Hibernate, Spring Unit Testing (Mockito)
-- **Agile & Scrum Software Development**
+- **Agile & Scrum Software Development:** The Scrum Process, User stories, Epics, Kanban   
 
 ## Organizational Skills 📊
 
