@@ -1,6 +1,11 @@
 # Hi, I'm Simona 👩🏻‍💻
 
-Welcome to my GitHub profile! I'm a Software Development trainee with +5 years of professional experience in the IT industry. Currently, I am passionate about Java.
+I'm a Software Development student with over 5 years of professional experience in the IT industry. 
+
+My journey into the world of programming began while I was recruiting developers at Commerzbank Digital Technology Center Sofia. The exposure to their work fascinated me, so I completed the **Programming Fundamentals with Java** at SoftUni. Shortly after, I seized the opportunity to challenge myself further by enrolling in the demanding **Telerik Alpha Java Track**, which I graduated in December 2023. At the same time, I began my **Masters Degree in Software Development** in October 2023.
+
+With a good foundation in Java and a background in IT recruitment, I bring a unique perspective to software development. My agile mindset, coupled with a commitment to collaboration and continuous improvement, enables me to adapt to various team dynamics and be a valuable contributor within projects.
+
 
 ## Professional Background 👩🏻‍💼
 
@@ -9,9 +14,10 @@ Welcome to my GitHub profile! I'm a Software Development trainee with +5 years o
 
 ## Education 🎓
 
-- Bachelor of Arts in Business Studies, Management
 - Masters in Software Development (ongoing)
-- Graduated from Telerik Academy Java Alpha Track
+- Telerik Academy Java Alpha Track
+- Programming Fundamentals with Java at SoftUni
+- Bachelor of Arts in Business Studies, Management
 
 ## Projects 🚀
 
@@ -37,14 +43,18 @@ Welcome to my GitHub profile! I'm a Software Development trainee with +5 years o
 
 ## Tech Skills 💻
 
-- Skill 1
-- Skill 2
-- Skill 3
+- **Core Programming:** Multidimensional Arrays, Debugging, Git
+- **Object-Oriented Programming (OOP):** Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Exception Handling, Java Collections Framework, Generics, Unit Testing, Lambdas & Stream API, Java Internals
+- **Data Structures & Algorithms:** Algorithm Analysis, Complexity, Linked List, Stack, Queue, Set, Map, Hash Table, Recursion, Trees, Searching & Sorting Algorithms
+- **Web Development:** SQL, HTTP, REST API, Postman, Spring Boot, Layered Architecture, IoC, Basic Authentication, JDBC, Hibernate, Spring Unit Testing (Mockito)
+- **Agile & Scrum Software Development**
 
 ## Organizational Skills 📊
 
-- Skill 1
-- Skill 2
-- Skill 3
+- **IT Recruitment:** Onboarding, Employer Branding, Talent Pipeline Management
+- **IT Administration:** IT Operations Management, Corporate Communication, Operational Efficiency
 
+## Interpersonal Skills 🤝
 
+- Interdisciplinary Collaboration
+- Bringing People Together
