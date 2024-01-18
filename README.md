@@ -21,7 +21,7 @@ With a good foundation in Java and a background in IT recruitment, I bring a uni
 
 ## Projects 🚀
 
-### 1. [Playlist Generator](https://github.com/simonanedeva/PlaylistGenerator)
+### 1. [Playlist Generator](https://github.com/RidePalProject-Telerik-Academy/RidePalProject)
 
 | **Description**    | **Technologies**                                                                  | **Key Achievements**                                       |
 | ------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- |
